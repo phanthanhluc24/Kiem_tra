@@ -1,0 +1,43 @@
+body{
+    background: lightblue;
+    margin-left: 300px;
+}
+.image{
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
+.New{
+    margin-left: 300px;
+    padding-top: 50px;
+    color: red;
+}
+.Item{
+    display:inline-block;
+    padding: 10px;
+}
+
+.Pro{
+    display:inline-block;
+    padding: 10px;
+}
+
+button{
+    background: yellow;
+}
+
+.container{
+    width: 400px;
+    margin-left: 200px;
+    background-color: aqua;
+}
+/* .content{
+    width: 300px;
+    height: 200px;
+} */
+
+.css{
+    position: absolute;
+    bottom: 18%;
+    left: 33%;
+}
