@@ -41,3 +41,14 @@ button{
     bottom: 18%;
     left: 33%;
 }
+
+.container_nam{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.container_nu{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
